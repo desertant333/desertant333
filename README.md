@@ -1,13 +1,8 @@
 # About
-Greetings, i am 13 years old batch developer.
+greetings, i am 13 years old batch developer.
+learning c++ to make more powerful malwares
+first combined c++ with batch malware:
+[here](https://github.com/desertant333/spectre)
 
-# What do i like?
-I like to program;
-- Compiled ```Batch``` utilities.
-- Compiled ```Batch``` malwares.
-- Compiled ```Batch``` installers.
-
-# Our Team
-- Heres a link to our team;\
-[Team](https://github.com/orgs/0xTeam-57)
+[our team](https://github.com/orgs/0xTeam-57)
 
